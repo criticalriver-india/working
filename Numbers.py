@@ -3,7 +3,7 @@
 a=20
 b=40
 
-print (" sample pgm")
+print (" sample pgm..........!")
 print(a)
 print(b)
 # Number types - Interger, float, complex and long
